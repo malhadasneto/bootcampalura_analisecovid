@@ -130,4 +130,4 @@ dmypy.json
 
 #.idea and venv
 .idea/
-.venv_streamlit/
+venv_streamlit/
